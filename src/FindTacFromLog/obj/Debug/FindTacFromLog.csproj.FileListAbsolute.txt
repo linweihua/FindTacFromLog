@@ -1,0 +1,9 @@
+c:\users\hua\documents\visual studio 2012\Projects\FindTacFromLog\FindTacFromLog\bin\Debug\FindTacFromLog.exe.config
+c:\users\hua\documents\visual studio 2012\Projects\FindTacFromLog\FindTacFromLog\bin\Debug\FindTacFromLog.exe
+c:\users\hua\documents\visual studio 2012\Projects\FindTacFromLog\FindTacFromLog\bin\Debug\FindTacFromLog.pdb
+c:\users\hua\documents\visual studio 2012\Projects\FindTacFromLog\FindTacFromLog\obj\Debug\FindTacFromLog.csprojResolveAssemblyReference.cache
+c:\users\hua\documents\visual studio 2012\Projects\FindTacFromLog\FindTacFromLog\obj\Debug\FindTacFromLog.Form1.resources
+c:\users\hua\documents\visual studio 2012\Projects\FindTacFromLog\FindTacFromLog\obj\Debug\FindTacFromLog.Properties.Resources.resources
+c:\users\hua\documents\visual studio 2012\Projects\FindTacFromLog\FindTacFromLog\obj\Debug\FindTacFromLog.csproj.GenerateResource.Cache
+c:\users\hua\documents\visual studio 2012\Projects\FindTacFromLog\FindTacFromLog\obj\Debug\FindTacFromLog.exe
+c:\users\hua\documents\visual studio 2012\Projects\FindTacFromLog\FindTacFromLog\obj\Debug\FindTacFromLog.pdb
